@@ -264,11 +264,51 @@ img {
 }
 
 .color-3 {
-  background-color: #60bdde;
+  background-color: #FFE9EE;
 }
 
 .color-4 {
+  background-color: #B17C3D;
+}
+
+.color-5 {
+  background-color: #272727;
+}
+
+.color-6 {
+  background-color: #9C172F;
+}
+
+.color-my {
+  background-color: #D00E2E;
+}
+
+.color-my-2 {
+  background-color: #9FFE00;
+}
+
+.kaisen {
+  background-color: #218A67;
+}
+
+.kaisen2 {
+  background-color: #E3CB2E;
+}
+
+.shampoo {
+  background-color: #F5BB1B;
+}
+
+.shampoo2 {
   background-color: #000000;
+}
+
+.senior {
+  background-color: #173181;
+}
+
+.senior2 {
+  background-color: #F5D02A;
 }
 
 h1 {
